@@ -1,4 +1,6 @@
-package com.patson.stormy;
+package com.patson.stormy.weather;
+
+import com.patson.stormy.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -7,7 +9,7 @@ import java.util.TimeZone;
 /**
  * Copyright 2015 Patrick Son
  */
-public class CurrentWeather {
+public class Current {
     private String mIcon ;
     private long mTime ;
     private double mTemperature ;

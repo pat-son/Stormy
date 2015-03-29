@@ -1,10 +1,12 @@
-package com.patson.stormy;
+package com.patson.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.patson.stormy.R;
 
 /**
  * Copyright 2015 Patrick Son
